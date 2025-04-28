@@ -1,6 +1,6 @@
 # 📚 Library Management System (SQL + EER Diagram)
 
-![SQL](https://img.shields.io/badge/Database-SQL-blue) ![Project](https://img.shields.io/badge/Project-Library_Management-orange) ![License](https://img.shields.io/badge/License-MIT-green)
+![SQL](https://img.shields.io/badge/Database-SQL-blue) ![Project](https://img.shields.io/badge/Project-Library_Management-orange) 
 
 ## 🚀 Project Overview
 This project focuses on developing a Library Management System using **SQL** and an **Enhanced Entity-Relationship (EER) Diagram** to manage book borrowing, transactions, and fines efficiently.
